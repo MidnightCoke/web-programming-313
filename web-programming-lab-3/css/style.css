@@ -1,0 +1,114 @@
+.hero-section {
+    background-color: darkcyan;
+}
+
+.bg-cyan {
+    background-color: cyan;
+}
+
+.center {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.text-left {
+    text-align: left;
+}
+
+.p-1 {
+    padding: 4px;
+}
+
+.p-2 {
+    padding: 8px;
+}
+
+.p-3 {
+    padding: 12px;
+}
+
+.p-4 {
+    padding: 16px;
+}
+
+.p-5 {
+    padding: 20px;
+}
+
+
+/*
+  DROPDOWN
+*/
+
+nav {
+    border: 2px solid wheat;
+    width: 10em;
+}
+
+nav div:hover {
+    background-color: blanchedalmond;
+}
+
+nav ul {
+    display: none;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.border-wheat-2 {
+    border: 1px solid wheat;
+}
+
+nav:hover ul {
+    display: block;
+}
+
+.left {
+    float: left;
+    width: 50%;
+    height: 250px;
+}
+
+.right {
+    float: left;
+    width: 50%;
+    height: 250px;
+}
+
+.scroll-paragraph {
+    color: palevioletred;
+    width: 350px;
+    height: 110px;
+    overflow: scroll;
+}
+
+td:first-child {
+    font-weight: bold
+}
+
+tr:first-child {
+    font-weight: bold;
+}
+
+footer {
+    margin-top: 12px;
+}
+
+table th {
+    font-weight: normal;
+}
+
+.light-font {
+    font-weight: 100;
+    font-size: 22px;
+}
